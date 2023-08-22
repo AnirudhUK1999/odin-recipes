@@ -1,0 +1,52 @@
+*{
+    background-color: black;
+    color: lightgray;
+    /* box-sizing: border-box;
+    border: 5px solid aqua;
+    padding: 5px; */
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: aqua;
+    margin: 10px;
+    border: 100px;
+}
+
+.home-header{
+    color: red;
+}
+
+.page-header{
+    color: tomato;
+}
+
+.test{
+    display: inline;
+}
+
+li{
+    color: wheat;
+}
+
+.description.desc-header{
+    color: yellowgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description{
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.test{
+    display: inline-flex;
+    margin: auto;
+}
+
+.container-desc{
+    padding: 50px;
+}
